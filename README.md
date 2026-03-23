@@ -2,9 +2,9 @@
 An end-to-end data analytics project for a fictional bike store, Cyclink Bikeshop, built using Excel, SQL, and Power BI.  This project demonstrates how raw data can be transformed into meaningful insights through data cleaning, modeling, and visualization.
 
 🛠️ Tech Stack
-Excel – Initial data storage and preprocessing
-SQL – Data transformation and joins
-Power BI – Data visualization and dashboard creation
+  - Excel – Initial data storage and preprocessing
+  - SQL – Data transformation and joins
+  - Power BI – Data visualization and dashboard creation
 
 🔄 Data Pipeline
 1. Data Source (Excel)
